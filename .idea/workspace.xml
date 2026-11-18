@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cc42122-1cb6-4d51-8a76-48ddefd7c915" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../assets-diagrams/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assets-diagrams/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets-diagrams/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets-diagrams/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets-diagrams/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets-diagrams/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets-diagrams/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets-diagrams/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +33,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
