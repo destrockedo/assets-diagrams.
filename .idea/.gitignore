@@ -1,0 +1,10 @@
+# Default ignored files
+/../../assets-diagrams./.idea/shelf/
+/../../assets-diagrams./.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../assets-diagrams./.idea/httpRequests/
+# Ignored default folder with query files
+/../../assets-diagrams./.idea/queries/
+# Datasource local storage ignored files
+/../../assets-diagrams./.idea/dataSources/
+/../../assets-diagrams./.idea/dataSources.local.xml
