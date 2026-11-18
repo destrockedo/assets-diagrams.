@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cc42122-1cb6-4d51-8a76-48ddefd7c915" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../assets-diagrams/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets-diagrams/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets-diagrams/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets-diagrams/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets-diagrams/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assets-diagrams/pom.xml" afterDir="false" />
+    <list default="true" id="3cc42122-1cb6-4d51-8a76-48ddefd7c915" name="Changes" comment=".">
+      <change beforePath="$PROJECT_DIR$/../assets-diagrams/src/Screenshot 2026-11-18 141915.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../assets-diagrams" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "destrockedo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/destrockedo/assets-diagrams..git",
+    "accountId": "24a8f0c7-2336-4842-bef3-fb5d21b7ea27"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5,
   "fromUser": false
@@ -60,5 +67,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
